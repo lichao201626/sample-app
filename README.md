@@ -1,4 +1,5 @@
 # sample-app
+<<<<<<< HEAD
 
 This is a sample Grommet application for reference.
 
@@ -39,3 +40,6 @@ To run this application, execute the following commands:
     ```
     $ npm test
     ```
+=======
+grommet style UI, express server with zmq 
+>>>>>>> b4fbbfe6ff763f62821753ad270948c9ff5ad0b8
